@@ -1,0 +1,4918 @@
+{
+  "version": "1.0.0",
+  "exportDate": "2026-05-18T18:59:17.262905",
+  "source": "Money Manager (.mmbackup)",
+  "settings": [
+    {
+      "key": "defaultCurrencyCode",
+      "value": "COP"
+    },
+    {
+      "key": "currency",
+      "value": "COP"
+    },
+    {
+      "key": "theme",
+      "value": "dark"
+    },
+    {
+      "key": "pinEnabled",
+      "value": false
+    },
+    {
+      "key": "autoLockMinutes",
+      "value": 15
+    },
+    {
+      "key": "customCurrencies",
+      "value": "[]"
+    },
+    {
+      "key": "customCategories",
+      "value": "[]"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Cuenta Principal",
+      "type": "checking",
+      "balance": -2364208.0,
+      "baseBalance": -2364208.0,
+      "currency": "COP",
+      "color": "#9BB68E",
+      "comment": ""
+    }
+  ],
+  "entries": [
+    {
+      "amount": 637000.0,
+      "date": "2024-12-31",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 633000.0,
+      "date": "2024-12-25",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 624000.0,
+      "date": "2024-12-18",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 472000.0,
+      "date": "2024-12-11",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 659000.0,
+      "date": "2024-12-04",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 473000.0,
+      "date": "2024-11-27",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 630000.0,
+      "date": "2024-11-20",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 644000.0,
+      "date": "2024-11-13",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 648000.0,
+      "date": "2024-11-06",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 626000.0,
+      "date": "2024-10-30",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 616000.0,
+      "date": "2024-10-23",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-10-16",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-10-09",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 744000.0,
+      "date": "2024-10-02",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 620000.0,
+      "date": "2025-01-07",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 343000.0,
+      "date": "2025-01-08",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-09-25",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 450000.0,
+      "date": "2024-09-18",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-09-11",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-09-04",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 657000.0,
+      "date": "2024-08-28",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-08-21",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 608000.0,
+      "date": "2024-08-08",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 208000.0,
+      "date": "2024-08-01",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 878000.0,
+      "date": "2024-08-01",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Marketex, Paypal]",
+      "comment": "[Tags: Marketex, Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1325000.0,
+      "date": "2024-08-30",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 170000.0,
+      "date": "2024-09-24",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2024-11-02",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2024-12-10",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2024-12-11",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 120000.0,
+      "date": "2024-12-18",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 623000.0,
+      "date": "2025-01-15",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 622000.0,
+      "date": "2025-01-21",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-01-21",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 85000.0,
+      "date": "2025-01-21",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2025-01-26",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 690000.0,
+      "date": "2025-01-29",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 688000.0,
+      "date": "2025-02-12",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 680000.0,
+      "date": "2025-02-19",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 690000.0,
+      "date": "2025-02-05",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-04-09",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 687000.0,
+      "date": "2025-03-26",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 695000.0,
+      "date": "2025-04-02",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 50000.0,
+      "date": "2025-04-08",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 677000.0,
+      "date": "2025-02-26",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 680000.0,
+      "date": "2025-03-20",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 684000.0,
+      "date": "2025-03-12",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 680000.0,
+      "date": "2025-03-04",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-04-16",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-05-07",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-04-23",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-04-30",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 328000.0,
+      "date": "2025-04-30",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 691000.0,
+      "date": "2025-05-14",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 240000.0,
+      "date": "2025-05-14",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "Nuu martha",
+      "comment": "Nuu martha",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-05-21",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-05-28",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 150000.0,
+      "date": "2025-07-15",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 650000.0,
+      "date": "2025-07-16",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 650000.0,
+      "date": "2025-07-09",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 680000.0,
+      "date": "2025-06-18",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 670000.0,
+      "date": "2025-06-25",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 660000.0,
+      "date": "2025-07-02",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 670000.0,
+      "date": "2025-07-23",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1700000.0,
+      "date": "2025-07-30",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 683000.0,
+      "date": "2025-08-06",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1140000.0,
+      "date": "2025-08-13",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 666000.0,
+      "date": "2025-08-20",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-06-11",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 700000.0,
+      "date": "2025-06-04",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 666000.0,
+      "date": "2025-08-27",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 660000.0,
+      "date": "2025-09-03",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 640000.0,
+      "date": "2025-09-10",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 650000.0,
+      "date": "2025-09-17",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 650000.0,
+      "date": "2025-09-24",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 650000.0,
+      "date": "2025-09-30",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1322000.0,
+      "date": "2025-10-08",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 400000.0,
+      "date": "2025-09-26",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1100000.0,
+      "date": "2025-10-15",
+      "category": "other_income",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    }
+  ],
+  "expenses": [
+    {
+      "amount": 43000.0,
+      "date": "2025-01-08",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-12-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-11-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-10-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-09-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-08-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-07-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2024-06-07",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 110000.0,
+      "date": "2024-12-18",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 110000.0,
+      "date": "2024-10-17",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 110000.0,
+      "date": "2024-11-17",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2024-12-26",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2024-07-22",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 266000.0,
+      "date": "2024-08-14",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2024-08-21",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 285000.0,
+      "date": "2024-09-24",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 281000.0,
+      "date": "2024-10-24",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 284000.0,
+      "date": "2024-11-27",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 223000.0,
+      "date": "2024-06-18",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 345000.0,
+      "date": "2024-07-30",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 348000.0,
+      "date": "2024-07-15",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 250000.0,
+      "date": "2024-08-31",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 676008.0,
+      "date": "2024-08-21",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 587000.0,
+      "date": "2024-09-25",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 546000.0,
+      "date": "2024-09-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 421000.0,
+      "date": "2024-08-21",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 76000.0,
+      "date": "2024-09-16",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 223000.0,
+      "date": "2024-10-17",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 270000.0,
+      "date": "2024-12-04",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 223000.0,
+      "date": "2024-12-26",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 350000.0,
+      "date": "2024-10-30",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 400000.0,
+      "date": "2024-10-24",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 426000.0,
+      "date": "2024-10-11",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2024-11-20",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 815000.0,
+      "date": "2024-11-20",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 162000.0,
+      "date": "2024-12-18",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 460000.0,
+      "date": "2024-12-11",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 500000.0,
+      "date": "2024-12-18",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 300000.0,
+      "date": "2024-12-04",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 718000.0,
+      "date": "2025-01-02",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 110000.0,
+      "date": "2024-09-17",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 110000.0,
+      "date": "2024-08-17",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 185000.0,
+      "date": "2025-01-09",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2024-06-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 155000.0,
+      "date": "2024-06-15",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 115000.0,
+      "date": "2024-06-24",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 145000.0,
+      "date": "2024-07-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 145000.0,
+      "date": "2024-07-29",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 80000.0,
+      "date": "2024-08-08",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2024-08-23",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 145000.0,
+      "date": "2024-08-29",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2024-09-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2024-09-16",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 105000.0,
+      "date": "2024-09-27",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 140000.0,
+      "date": "2024-10-01",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2024-10-10",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 140000.0,
+      "date": "2024-11-05",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 140000.0,
+      "date": "2024-11-13",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2024-06-01",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "[Tags: Café]",
+      "comment": "[Tags: Café]",
+      "currency": "COP"
+    },
+    {
+      "amount": 29800.0,
+      "date": "2024-06-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "[Tags: Café]",
+      "comment": "[Tags: Café]",
+      "currency": "COP"
+    },
+    {
+      "amount": 16500.0,
+      "date": "2024-06-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "[Tags: Café]",
+      "comment": "[Tags: Café]",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2024-06-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "[Tags: Café]",
+      "comment": "[Tags: Café]",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2024-06-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "[Tags: Café]",
+      "comment": "[Tags: Café]",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2024-06-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "[Tags: Café]",
+      "comment": "[Tags: Café]",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2024-07-16",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Audífonos]",
+      "comment": "[Tags: Audífonos]",
+      "currency": "COP"
+    },
+    {
+      "amount": 81000.0,
+      "date": "2024-07-31",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Cosméticos]",
+      "comment": "[Tags: Cosméticos]",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2024-09-13",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Ropa]",
+      "comment": "[Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 150000.0,
+      "date": "2024-09-13",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Toto | [Tags: Ropa]",
+      "comment": "Toto | [Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 150000.0,
+      "date": "2024-09-27",
+      "category": "mm-import-a2cbda7e",
+      "accountId": 1,
+      "description": "[Tags: Dientes]",
+      "comment": "[Tags: Dientes]",
+      "currency": "COP"
+    },
+    {
+      "amount": 510000.0,
+      "date": "2024-09-30",
+      "category": "mm-import-a2cbda7e",
+      "accountId": 1,
+      "description": "[Tags: Dientes]",
+      "comment": "[Tags: Dientes]",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2024-09-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 400000.0,
+      "date": "2024-10-01",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Xbox]",
+      "comment": "[Tags: Xbox]",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2024-10-02",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2024-10-08",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Xbox]",
+      "comment": "[Tags: Xbox]",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2024-10-15",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Luces led",
+      "comment": "Luces led",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2024-10-18",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2024-10-27",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Ropa]",
+      "comment": "[Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 70000.0,
+      "date": "2024-10-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2024-11-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2024-11-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 23000.0,
+      "date": "2024-11-19",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2024-11-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 70000.0,
+      "date": "2024-11-23",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Uni]",
+      "comment": "[Tags: Uni]",
+      "currency": "COP"
+    },
+    {
+      "amount": 75000.0,
+      "date": "2024-10-25",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Uni]",
+      "comment": "[Tags: Uni]",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2024-11-27",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Xbox]",
+      "comment": "[Tags: Xbox]",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2024-12-21",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Xbox]",
+      "comment": "[Tags: Xbox]",
+      "currency": "COP"
+    },
+    {
+      "amount": 80000.0,
+      "date": "2025-01-02",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Drive | [Tags: Google]",
+      "comment": "Drive | [Tags: Google]",
+      "currency": "COP"
+    },
+    {
+      "amount": 416000.0,
+      "date": "2025-01-13",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Adidas | [Tags: Ropa]",
+      "comment": "Adidas | [Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 300000.0,
+      "date": "2025-01-13",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Tennis | [Tags: Ropa]",
+      "comment": "Tennis | [Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2025-01-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 260000.0,
+      "date": "2024-09-18",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Adidas | [Tags: Ropa]",
+      "comment": "Adidas | [Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 840000.0,
+      "date": "2024-09-18",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Adidas | [Tags: Ropa]",
+      "comment": "Adidas | [Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-01-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 32000.0,
+      "date": "2025-01-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 203000.0,
+      "date": "2025-01-07",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: ADDI]",
+      "comment": "[Tags: ADDI]",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-01-08",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 4000.0,
+      "date": "2025-01-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 42000.0,
+      "date": "2025-01-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 23000.0,
+      "date": "2025-01-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-01-11",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Yt premium]",
+      "comment": "[Tags: Yt premium]",
+      "currency": "COP"
+    },
+    {
+      "amount": 90000.0,
+      "date": "2025-01-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 60000.0,
+      "date": "2025-01-11",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 60000.0,
+      "date": "2025-01-12",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 55000.0,
+      "date": "2025-01-15",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 60000.0,
+      "date": "2025-01-15",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 670000.0,
+      "date": "2025-01-13",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 142000.0,
+      "date": "2025-01-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC BB]",
+      "comment": "[Tags: TC BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 140000.0,
+      "date": "2025-01-16",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Ropa]",
+      "comment": "[Tags: Ropa]",
+      "currency": "COP"
+    },
+    {
+      "amount": 31000.0,
+      "date": "2025-01-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-01-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-01-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 85000.0,
+      "date": "2025-01-21",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Cosméticos]",
+      "comment": "[Tags: Cosméticos]",
+      "currency": "COP"
+    },
+    {
+      "amount": 50000.0,
+      "date": "2025-01-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-01-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 240000.0,
+      "date": "2025-01-29",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-01-29",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 60000.0,
+      "date": "2025-01-09",
+      "category": "mm-import-a2cbda7e",
+      "accountId": 1,
+      "description": "Dulcolax",
+      "comment": "Dulcolax",
+      "currency": "COP"
+    },
+    {
+      "amount": 122000.0,
+      "date": "2025-01-20",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 170000.0,
+      "date": "2025-01-26",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 50000.0,
+      "date": "2025-02-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2025-02-11",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 3000.0,
+      "date": "2025-01-24",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 102000.0,
+      "date": "2025-01-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-01-23",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 6000.0,
+      "date": "2025-02-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-02-04",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-02-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-02-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 96000.0,
+      "date": "2025-01-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 33000.0,
+      "date": "2025-01-23",
+      "category": "mm-import-a2cbda7e",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-01-29",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-01-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-01-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2025-01-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 23000.0,
+      "date": "2025-01-29",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-01-24",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 50000.0,
+      "date": "2025-01-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 6000.0,
+      "date": "2025-02-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 4000.0,
+      "date": "2025-02-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 4000.0,
+      "date": "2025-02-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-02-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-01-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-02-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-02-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 7000.0,
+      "date": "2025-02-05",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-01-23",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-02-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2025-01-22",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-02-14",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 50000.0,
+      "date": "2025-02-17",
+      "category": "mm-import-a2cbda7e",
+      "accountId": 1,
+      "description": "Examen Ocupacional ",
+      "comment": "Examen Ocupacional ",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-02-17",
+      "category": "other_expense",
+      "accountId": 1,
+      "description": "Cc MBM chalet",
+      "comment": "Cc MBM chalet",
+      "currency": "COP"
+    },
+    {
+      "amount": 600000.0,
+      "date": "2025-02-05",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 530000.0,
+      "date": "2025-02-19",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 143000.0,
+      "date": "2025-02-19",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC BB]",
+      "comment": "[Tags: TC BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-02-18",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 120000.0,
+      "date": "2025-02-19",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-02-11",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Yt premium]",
+      "comment": "[Tags: Yt premium]",
+      "currency": "COP"
+    },
+    {
+      "amount": 44000.0,
+      "date": "2025-02-17",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Spotify premium ",
+      "comment": "Spotify premium ",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-02-12",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-01-31",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-01-27",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 162000.0,
+      "date": "2025-02-19",
+      "category": "DefaultEducation",
+      "accountId": 1,
+      "description": "[Tags: Icfes]",
+      "comment": "[Tags: Icfes]",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-02-19",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-02-24",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-03-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-03-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2025-02-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-03-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-03-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2025-03-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-03-14",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 7000.0,
+      "date": "2025-03-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2025-02-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-02-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9200.0,
+      "date": "2025-03-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-03-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-03-05",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-03-12",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 170000.0,
+      "date": "2025-03-13",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 163000.0,
+      "date": "2025-03-12",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC BB]",
+      "comment": "[Tags: TC BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 284000.0,
+      "date": "2025-02-26",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 170000.0,
+      "date": "2025-02-24",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-03-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-04-01",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-04-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 19000.0,
+      "date": "2025-03-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-04-01",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 36000.0,
+      "date": "2025-03-18",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-03-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-03-05",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2025-03-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-03-19",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-03-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 7000.0,
+      "date": "2025-03-27",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-03-19",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-03-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-03-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-03-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-03-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-03-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-02-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-03-18",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-03-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-03-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 31000.0,
+      "date": "2025-03-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-03-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-04-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-03-27",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 918000.0,
+      "date": "2025-03-30",
+      "category": "DefaultEducation",
+      "accountId": 1,
+      "description": "[Tags: Paypal]",
+      "comment": "[Tags: Paypal]",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-04-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 630000.0,
+      "date": "2025-04-02",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2025-04-09",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2025-03-28",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 224000.0,
+      "date": "2025-03-26",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 185000.0,
+      "date": "2025-03-25",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 505000.0,
+      "date": "2025-03-20",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-03-06",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-03-13",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-03-20",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-03-27",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-04-01",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 90000.0,
+      "date": "2025-04-02",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-04-08",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-04-09",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 750000.0,
+      "date": "2025-03-05",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 135000.0,
+      "date": "2025-04-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC BB]",
+      "comment": "[Tags: TC BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 370000.0,
+      "date": "2025-04-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-04-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 17000.0,
+      "date": "2025-04-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-04-15",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-02-02",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-04-15",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-04-22",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-05-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2025-05-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 120000.0,
+      "date": "2025-05-09",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 120000.0,
+      "date": "2025-04-29",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 85000.0,
+      "date": "2025-04-20",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-05-02",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 6000.0,
+      "date": "2025-04-29",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-05-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-04-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-04-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 6000.0,
+      "date": "2025-05-02",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-05-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 4000.0,
+      "date": "2025-05-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-05-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-05-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 7000.0,
+      "date": "2025-05-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-04-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 185000.0,
+      "date": "2025-04-28",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "[Tags: Gym]",
+      "comment": "[Tags: Gym]",
+      "currency": "COP"
+    },
+    {
+      "amount": 225000.0,
+      "date": "2025-04-22",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-05-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 23000.0,
+      "date": "2025-05-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-05-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 140000.0,
+      "date": "2025-05-15",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC BB]",
+      "comment": "[Tags: TC BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2025-05-15",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 325000.0,
+      "date": "2025-05-15",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 629000.0,
+      "date": "2025-05-12",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 840000.0,
+      "date": "2025-05-13",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Ssd PC",
+      "comment": "Ssd PC",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2025-05-09",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "Ropa",
+      "comment": "Ropa",
+      "currency": "COP"
+    },
+    {
+      "amount": 38200.0,
+      "date": "2025-05-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-04-14",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Yt premium]",
+      "comment": "[Tags: Yt premium]",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-05-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Yt premium]",
+      "comment": "[Tags: Yt premium]",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-04-28",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-05-17",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-05-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 70000.0,
+      "date": "2025-05-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 150000.0,
+      "date": "2025-05-21",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 105000.0,
+      "date": "2025-05-19",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "Baterías",
+      "comment": "Baterías",
+      "currency": "COP"
+    },
+    {
+      "amount": 24500.0,
+      "date": "2025-05-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-05-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-05-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-05-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-06-04",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 200000.0,
+      "date": "2025-05-31",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-05-23",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 780000.0,
+      "date": "2025-05-28",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 836000.0,
+      "date": "2025-06-04",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-05-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 220000.0,
+      "date": "2025-06-05",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 100000.0,
+      "date": "2025-06-05",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "Destornillador",
+      "comment": "Destornillador",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-05-26",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "RAM pc",
+      "comment": "RAM pc",
+      "currency": "COP"
+    },
+    {
+      "amount": 300000.0,
+      "date": "2025-05-17",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "Gafas",
+      "comment": "Gafas",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-06-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-06-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2025-06-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-06-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-06-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-06-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 7000.0,
+      "date": "2025-06-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-07-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-07-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 53000.0,
+      "date": "2025-07-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-07-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 32000.0,
+      "date": "2025-07-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2025-06-16",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2025-07-18",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-07-18",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 65000.0,
+      "date": "2025-07-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 72000.0,
+      "date": "2025-07-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 58000.0,
+      "date": "2025-07-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 122000.0,
+      "date": "2025-07-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-06-27",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 36000.0,
+      "date": "2025-07-22",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5500.0,
+      "date": "2025-07-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-07-23",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-07-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-08-01",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2025-07-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-07-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2025-07-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 19000.0,
+      "date": "2025-07-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 37000.0,
+      "date": "2025-07-29",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 25000.0,
+      "date": "2025-07-29",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 4000.0,
+      "date": "2025-07-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 150000.0,
+      "date": "2025-07-25",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 9000.0,
+      "date": "2025-08-01",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 6000.0,
+      "date": "2025-07-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-08-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-08-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2025-08-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-09-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-09-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 37000.0,
+      "date": "2025-10-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-09-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 190000.0,
+      "date": "2025-09-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-09-23",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 19000.0,
+      "date": "2025-09-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 19000.0,
+      "date": "2025-09-23",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-08-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 18000.0,
+      "date": "2025-08-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2025-09-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 24000.0,
+      "date": "2025-08-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 4000.0,
+      "date": "2025-08-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-09-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 32000.0,
+      "date": "2025-09-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-08-22",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 3000.0,
+      "date": "2025-08-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 43000.0,
+      "date": "2025-08-19",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 22000.0,
+      "date": "2025-09-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2025-09-04",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-09-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-09-06",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 21000.0,
+      "date": "2025-09-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 15000.0,
+      "date": "2025-09-17",
+      "category": "DefaultSport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 21000.0,
+      "date": "2025-08-28",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 7000.0,
+      "date": "2025-09-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 32000.0,
+      "date": "2025-08-26",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 2000.0,
+      "date": "2025-09-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-08-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 170000.0,
+      "date": "2025-10-08",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 26000.0,
+      "date": "2025-06-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 85000.0,
+      "date": "2025-06-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 160000.0,
+      "date": "2025-06-16",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2025-06-30",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 165000.0,
+      "date": "2025-07-09",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 36000.0,
+      "date": "2025-07-09",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-07-12",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Apple]",
+      "comment": "[Tags: Apple]",
+      "currency": "COP"
+    },
+    {
+      "amount": 85000.0,
+      "date": "2025-07-12",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 110000.0,
+      "date": "2025-07-17",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 24000.0,
+      "date": "2025-07-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 185000.0,
+      "date": "2025-07-25",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 230000.0,
+      "date": "2025-08-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 21000.0,
+      "date": "2025-08-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 180000.0,
+      "date": "2025-08-19",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 180000.0,
+      "date": "2025-08-30",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 180000.0,
+      "date": "2025-09-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-09-07",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "[Tags: Apple]",
+      "comment": "[Tags: Apple]",
+      "currency": "COP"
+    },
+    {
+      "amount": 180000.0,
+      "date": "2025-09-15",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 160000.0,
+      "date": "2025-09-20",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 90000.0,
+      "date": "2025-10-06",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 300000.0,
+      "date": "2025-10-07",
+      "category": "other_expense",
+      "accountId": 1,
+      "description": "[Tags: DIAN]",
+      "comment": "[Tags: DIAN]",
+      "currency": "COP"
+    },
+    {
+      "amount": 75000.0,
+      "date": "2025-09-20",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 578000.0,
+      "date": "2025-06-20",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-06-25",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 152000.0,
+      "date": "2025-06-29",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-06-06",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 60000.0,
+      "date": "2025-07-03",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 380000.0,
+      "date": "2025-07-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 220000.0,
+      "date": "2025-07-16",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-07-23",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-07-25",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 160000.0,
+      "date": "2025-07-25",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "[Tags: Oboticario]",
+      "comment": "[Tags: Oboticario]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1060000.0,
+      "date": "2025-07-30",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-07-31",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-08-02",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 75000.0,
+      "date": "2025-08-08",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 166000.0,
+      "date": "2025-08-13",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 204000.0,
+      "date": "2025-08-15",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 210000.0,
+      "date": "2025-08-19",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 290000.0,
+      "date": "2025-08-27",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 60000.0,
+      "date": "2025-08-30",
+      "category": "DefaultTransport",
+      "accountId": 1,
+      "description": "[Tags: Efectivo]",
+      "comment": "[Tags: Efectivo]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1200000.0,
+      "date": "2025-09-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 228000.0,
+      "date": "2025-09-26",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 613000.0,
+      "date": "2025-09-29",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Dav]",
+      "comment": "[Tags: TC Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 1100000.0,
+      "date": "2025-07-16",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 980000.0,
+      "date": "2025-08-23",
+      "category": "mm-import-ca96c8af",
+      "accountId": 1,
+      "description": "[Tags: TC Nuu]",
+      "comment": "[Tags: TC Nuu]",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-10-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-10-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 140000.0,
+      "date": "2025-10-15",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM BB]",
+      "comment": "[Tags: CM BB]",
+      "currency": "COP"
+    },
+    {
+      "amount": 280000.0,
+      "date": "2025-10-15",
+      "category": "mm-import-a60a68e3",
+      "accountId": 1,
+      "description": "[Tags: CM Dav]",
+      "comment": "[Tags: CM Dav]",
+      "currency": "COP"
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-10-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-10-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2025-10-13",
+      "category": "DefaultHealth",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2025-10-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-10-13",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2025-10-17",
+      "category": "other_expense",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 46000.0,
+      "date": "2025-10-17",
+      "category": "other_expense",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-11-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2025-12-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2026-01-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-11-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2025-12-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2026-01-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 11000.0,
+      "date": "2026-01-21",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 88500.0,
+      "date": "2026-01-19",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2026-01-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 40000.0,
+      "date": "2026-01-20",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2025-11-12",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 41000.0,
+      "date": "2025-11-10",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 21000.0,
+      "date": "2025-12-17",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-11-11",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 10000.0,
+      "date": "2026-01-20",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 27000.0,
+      "date": "2026-01-14",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 13000.0,
+      "date": "2026-01-08",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 8000.0,
+      "date": "2025-12-05",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 123000.0,
+      "date": "2025-11-05",
+      "category": "DefaultPresents",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 30000.0,
+      "date": "2025-12-07",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2025-12-22",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2026-02-02",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 20000.0,
+      "date": "2026-01-30",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2026-01-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2026-01-31",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 16000.0,
+      "date": "2026-02-03",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 12000.0,
+      "date": "2026-01-23",
+      "category": "DefaultProducts",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2026-02-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2026-03-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2026-04-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 14000.0,
+      "date": "2026-05-10",
+      "category": "DefaultLeisure",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2026-02-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2026-03-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2026-04-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    },
+    {
+      "amount": 35000.0,
+      "date": "2026-05-10",
+      "category": "mm-import-11297b2d",
+      "accountId": 1,
+      "description": "",
+      "comment": "",
+      "currency": "COP"
+    }
+  ],
+  "debts": [],
+  "creditCards": [],
+  "investments": [],
+  "categories": [
+    {
+      "id": "DefaultHome",
+      "name": "Hogar",
+      "color": "#FB8837",
+      "icon": "home",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultCafe",
+      "name": "Cafe",
+      "color": "#A788D6",
+      "icon": "coffee",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultFamily",
+      "name": "Familia",
+      "color": "#F2B108",
+      "icon": "users",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultPercents",
+      "name": "Intereses",
+      "color": "#67AF45",
+      "icon": "percent",
+      "type": "income"
+    },
+    {
+      "id": "mm-import-5f4654d8",
+      "name": "Arquitectura",
+      "color": "#41BCA8",
+      "icon": "plus",
+      "type": "income"
+    },
+    {
+      "id": "mm-import-a2cbda7e",
+      "name": "Salud",
+      "color": "#F4584E",
+      "icon": "plus",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultEducation",
+      "name": "Educación",
+      "color": "#7CF8EA",
+      "icon": "book",
+      "type": "expense"
+    },
+    {
+      "id": "mm-import-c75fe539",
+      "name": "Comission",
+      "color": "#FF7981",
+      "icon": "plus",
+      "type": "income"
+    },
+    {
+      "id": "other_income",
+      "name": "Otro Ingreso",
+      "color": "#67AF45",
+      "icon": "plus",
+      "type": "income"
+    },
+    {
+      "id": "mm-import-61b771c1",
+      "name": "Mam",
+      "color": "#FF9FA5",
+      "icon": "plus",
+      "type": "income"
+    },
+    {
+      "id": "DefaultSport",
+      "name": "Deporte",
+      "color": "#EA6F18",
+      "icon": "activity",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultPresent",
+      "name": "Regalo",
+      "color": "#DB4D87",
+      "icon": "gift",
+      "type": "income"
+    },
+    {
+      "id": "DefaultTransport",
+      "name": "Transporte",
+      "color": "#2E78CF",
+      "icon": "car",
+      "type": "expense"
+    },
+    {
+      "id": "mm-import-ca96c8af",
+      "name": "Tc",
+      "color": "#EC8207",
+      "icon": "plus",
+      "type": "expense"
+    },
+    {
+      "id": "mm-import-a60a68e3",
+      "name": "Deudas",
+      "color": "#F4584E",
+      "icon": "plus",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultHealth",
+      "name": "Salud",
+      "color": "#45CD53",
+      "icon": "heart",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultSalary",
+      "name": "Salario",
+      "color": "#45CD53",
+      "icon": "briefcase",
+      "type": "income"
+    },
+    {
+      "id": "other_expense",
+      "name": "Otro Gasto",
+      "color": "#888888",
+      "icon": "plus",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultPresents",
+      "name": "Regalos",
+      "color": "#E16095",
+      "icon": "gift",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultProducts",
+      "name": "Productos",
+      "color": "#67AF45",
+      "icon": "shopping-cart",
+      "type": "expense"
+    },
+    {
+      "id": "DefaultLeisure",
+      "name": "Ocio",
+      "color": "#41BCA8",
+      "icon": "film",
+      "type": "expense"
+    },
+    {
+      "id": "mm-import-11297b2d",
+      "name": "Tigo",
+      "color": "#4895DD",
+      "icon": "plus",
+      "type": "expense"
+    }
+  ],
+  "reminders": []
+}

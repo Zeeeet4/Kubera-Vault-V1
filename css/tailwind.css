@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+/* 
+ * Tailwind theme tokens — migración incremental.
+ * Los colores también existen en variables.css para theming dinámico (dark/light).
+ * Cuando la migración esté completa, variables.css puede eliminarse.
+ * Los valores `--color-*` se resuelven en tiempo de compilación vía CSS variables nativas.
+ */
+@theme {
+  --color-bg-primary: #FAFAFA;
+  --color-bg-secondary: #FFFFFF;
+  --color-bg-tertiary: #F5F5F5;
+  --color-text-primary: #1A1A2E;
+  --color-text-secondary: #6B7280;
+  --color-text-muted: #9CA3AF;
+  --color-accent-primary: #2563EB;
+  --color-accent-success: #059669;
+  --color-accent-danger: #DC2626;
+  --color-accent-warning: #D97706;
+  --color-accent-purple: #7C3AED;
+  --color-border-light: #E5E7EB;
+  --color-shadow-soft: rgba(0, 0, 0, 0.04);
+  --color-shadow-md: rgba(0, 0, 0, 0.08);
+  --color-shadow-lg: rgba(0, 0, 0, 0.12);
+  --color-income: var(--accent-success);
+  --color-expense: var(--accent-danger);
+  --color-debt: var(--accent-danger);
+  --color-investment: var(--accent-purple);
+  --color-number: var(--text-primary);
+  --font-primary: 'Raleway', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'Space Mono', 'Fira Code', monospace;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --sidebar-width: 280px;
+  --header-height: 64px;
+  --transition-fast: 150ms ease-out;
+  --transition-normal: 200ms ease-out;
+}
+
+@custom-variant dark (&:where([data-theme="dark"], .dark));

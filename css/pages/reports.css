@@ -1,0 +1,24 @@
+.report-filters {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.filter-label {
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+}
+
+.filter-select { min-width: 160px; }
+
+@media (max-width: 768px) {
+    .report-filters { flex-direction: column; }
+    .filter-select { width: 100%; }
+}
